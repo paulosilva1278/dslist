@@ -2,6 +2,7 @@ package com.devsuperior.dslist.dto;
 
 import com.devsuperior.dslist.entities.Game;
 
+// DTO apenas com o que eu preciso devolver
 public class GameMinDTO {
 
 	private long id;
